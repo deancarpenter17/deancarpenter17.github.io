@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <center>Expectations</center>
+title: <center>CS373 Expectations</center>
 ---
 
 
