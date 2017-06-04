@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Expectations for CS373{: .center-image }
+title: Expectations for CS373
 ---
 
 ![headshot alt text]({{ https://github.com/deancarpenter17/deancarpenter17.github.io/blob/master }}/images/github_blog_pic_300x300.jpg "an image title"){: .center-image }
