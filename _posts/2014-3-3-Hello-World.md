@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CS373 Summer 2017: Dean Carpenter"
+title: Expectations for CS373
 ---
 
 ![an image alt text]({{ https://github.com/deancarpenter17/deancarpenter17.github.io/blob/master }}/images/github_blog_pic_300px.JPG "an image title")
