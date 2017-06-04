@@ -1,7 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: "CS373 Summer 2017: Dean Carpenter"
 ---
+### 6/4/16
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
