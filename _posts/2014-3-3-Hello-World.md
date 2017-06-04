@@ -3,7 +3,7 @@ layout: post
 title: Expectations for CS373
 ---
 
-![an image alt text]({{ https://github.com/deancarpenter17/deancarpenter17.github.io/blob/master }}/images/github_blog_pic_300x300.jpg "an image title")
+![an image alt text]({{ https://github.com/deancarpenter17/deancarpenter17.github.io/blob/master }}/images/github_blog_pic_300x300.jpg "an image title"){: .center-image }
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
